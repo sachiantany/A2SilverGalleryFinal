@@ -1,0 +1,12 @@
+ th, td{ 
+              
+                padding:15px ;
+              
+            }
+            
+#salReport, #salReport.p{
+	float : left;
+	padding : 10px,5px;
+	text-align : left;
+}
+            
